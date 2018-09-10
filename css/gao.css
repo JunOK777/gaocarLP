@@ -1,0 +1,22 @@
+.row-eq-height {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.pricing-table {
+	padding-bottom: 0px;
+	min-height: 550px;
+}
+
+.menu-wrap {
+	top: 80px;
+}
+
+
+
+@media (max-width: 640px) {
+	.pricing-table {
+		min-height: 450px;
+		padding-bottom: 1rem;
+	}
+}

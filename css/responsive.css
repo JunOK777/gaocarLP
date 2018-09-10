@@ -1,0 +1,187 @@
+@media (min-width: 768px) and (max-width: 1024px) {
+  .section-header .section-title {
+    font-size: 22px;
+  }
+  #top .contents h1 {
+    font-size: 32px;
+    line-height: 48px;
+  }
+  .navbar-light .navbar-nav .nav-link {
+    padding: 8px 0px;
+    font-size: 13px;
+  }
+  .item-boxes h4 {
+    font-size: 16px;
+  }
+  #features .box-item .text h4 {
+    font-size: 12px;
+  }
+  #features .content-left .text {
+    margin-right: 85px;
+  }
+  #features .content-right .text {
+    margin-left: 85px;
+  }
+  .subscribe-box input[type="text"] {
+    padding: 6px 10px;
+  }
+}
+@media (max-width: 640px) {
+  .section-header .section-title {
+    font-size: 30px;
+  }
+  .menu-wrap {
+    padding: 10px;
+  }
+  .aboutbox {
+    margin: 40px 0 10px;
+  }
+  .aboutbox .col-xs-6 {
+    margin: 0 auto;
+    width: 50%; 
+  }
+  .icon-list a {
+    padding: 5px 0;
+  }
+  .icon-list a::before {
+    top: 5px;
+  }
+  .bg-faded {
+    background: #fff!important;
+  }
+  .nav-logo {
+    width: auto;
+    height: 60%;
+    margin: 20px 0 0 15px;
+  }
+  #top .contents h1 {
+    font-size: 30px;
+    line-height: 48px;
+  }
+  #top .contents p {
+    margin-top: 20px;
+    font-size: 16px;
+  }
+  #top .contents .btn {
+    margin-top: 60px;
+}
+  #top .contents img {
+    margin-top: 140px;
+
+  }
+  .top-img {
+    background-image: url(../img/header-rsp.png);
+     background-size: cover; 
+     height: 350px;
+  }
+  .top-logo {
+    width: 70%;
+  }
+  .box {
+    padding: 10px; 
+  }
+  .aboutbox {
+    
+  }
+  .section-header .section-subtitle {
+    margin-bottom: 0;
+  }
+  .pricing-tables .col-xs-12 {
+    padding: 0;
+  }
+  .pricing-tables .col-xs-12 p {
+    padding: 0 15px;
+  }
+  .pricing-table {
+    padding: 10px 20px 5px;
+  }
+  .pricing-table .pricing-details h2 {
+    font-size: 18px;
+  }
+  .pricing-table .pricing-details span {
+    font-size: 18px;
+  }
+  .pricing-img {
+    width: 150px;
+    height: 150px;
+    margin: 0 auto 10px;
+    box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.1);
+    margin-top: 1rem;
+  }
+  .pricing-details p {
+    margin-bottom: 20px;
+  }
+  .table-left {
+    /*margin: 0px 0px;*/
+  }
+  #request .contact-block {
+    padding: 0 50px;
+  }
+  .question-panel {
+    width: 100%;
+    margin: 0 auto;
+    padding: 0 15px;
+  }
+  }
+  .counters .facts-item {
+    margin-bottom: 30px;
+  }
+  .pricing-tables {
+    margin: 40px 0 0 0;
+  }
+}
+@media (min-width: 320px) and (max-width: 480px) {
+  .bg-faded {
+    background: #fff!important;
+  }
+  .section-header .section-title {
+    font-size: 20px;
+    line-height: 30px;
+  }
+  #top .contents {
+    padding: 80px 0 60px;
+  }
+  #top .contents h1 {
+    font-size: 18px;
+    line-height: 32px;
+  }
+  .pricing-img {
+    height: 100px;
+    width: 50%;
+    box-shadow: none;
+    margin-top: 10px;
+  }
+  .pricing-details h2 {
+    margin-top: 20px; 
+  }
+  .pricing-tables {
+    margin: 40px 0 0 0;
+  }
+  .pricing-tables .pricing-table {
+    margin-top: 30px;
+  }
+  .pricing-tables {
+    margin: 20px 0 0;
+    padding-top: 0;
+  }
+  .pricing-tables .pricing-table:last-child {
+    margin-bottom: 0;
+  }
+  .pricing-table{
+    padding: 0;
+  }
+  .counters .facts-item {
+    margin-bottom: 30px;
+  }
+  .question-wrap span {
+    right :1rem;
+  }
+  #contact .section-title {
+    font-size: 22px;
+  }
+  .social-icons ul li a {
+    width: 36px;
+    height: 36px;
+    line-height: 36px;
+  }
+}
